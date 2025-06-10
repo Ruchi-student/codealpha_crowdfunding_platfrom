@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .form-section input,
+  textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  textarea {
+    height: 80px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #218838;
+  }
+  
+  .project-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background: #fdfdfd;
+  }
+  
+  .project-card h3 {
+    margin: 0 0 10px;
+  }
+  
+  .project-card p {
+    margin: 5px 0;
+  }
+  

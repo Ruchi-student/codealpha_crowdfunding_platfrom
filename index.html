@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>💰 Crowdfund Now</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>💰 Crowdfunding Platform</h1>
+
+    <div class="form-section">
+      <input type="text" id="projectName" placeholder="Project Name" />
+      <input type="number" id="goalAmount" placeholder="Funding Goal ($)" />
+      <textarea id="description" placeholder="Project Description"></textarea>
+      <button onclick="createProject()">Create Project</button>
+    </div>
+
+    <div class="project-section" id="projectList"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
