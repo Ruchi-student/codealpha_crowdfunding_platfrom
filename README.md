@@ -12,3 +12,5 @@ Responsive and user-friendly design
 
 ->How to Use
 Open the index.html file in a modern browser to explore the platform.
+
+Github Link: https://github.com/Ruchi-student/codealpha_crowdfunding_platfrom.git
